@@ -1,5 +1,5 @@
 /**
- * extra.js
+ * social.js
  *
  * My own custom js
  *

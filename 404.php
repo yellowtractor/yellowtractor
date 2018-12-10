@@ -18,7 +18,7 @@ get_header();
 		   <div class="centerParent">
 			  <div class="centerChild">
 				<header class="page-header">
-					<h1 class="page-title"><?php esc_html_e( 'Oops! wandered off a bit...', 'ytbiz' ); ?></h1>
+					<h1 class="page-title"><?php esc_html_e( 'Oops! wandered off a bit...', 'yellowtractor' ); ?></h1>
 				</header><!-- .page-header -->
 			  </div>
 	     </div>
@@ -28,7 +28,7 @@ get_header();
 		    <div class="container width-800 p-bot-50">
 			    <div class="row">
 
-					     <h3><?php esc_html_e( 'Why not try one of the links above or a search?', 'ytbiz' ); ?></h3>
+					     <h3><?php esc_html_e( 'Why not try one of the links above or a search?', 'yellowtractor' ); ?></h3>
 
 					     <?php
 						   get_search_form();

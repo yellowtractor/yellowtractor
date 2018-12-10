@@ -12,6 +12,9 @@ node_modules
 # Icon must end with two \r
 Icon
 
+.config.codekit3
+.config.codekit2
+.config.codekit1
 
 # Thumbnails
 ._*
