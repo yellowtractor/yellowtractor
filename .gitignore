@@ -45,3 +45,5 @@ _site/
 .sass-cache/
 *.css.map
 .config.codekit3
+.config.codekit3
+*.codekit3
